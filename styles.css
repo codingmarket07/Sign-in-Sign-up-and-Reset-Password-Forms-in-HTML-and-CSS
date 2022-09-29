@@ -122,6 +122,3 @@ body {
 .form_wrapper .form_ele button:hover{
   background: var(--btn-hvr);
 }
-
-.form_wrapper .form_ele .form_head{
-}
